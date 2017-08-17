@@ -1,2 +1,13 @@
 # HybridIT-Barriers-Challenges
 Important challenges to adopting cloud and Hybrid IT computing models, and some solutions
+
+Cloud computing has risen in the enterprise world and proposes to be an answer to many business and technology challenges.  These include managing costs of expanding infrastructure, facilities, leveraging existing software development and functionalities from the cloud rather than traditional IT, responding to market changes (speed and time to market), and aligning costs more directly to business product revenue.  
+
+With the introduction of this approach, a number of barriers and challenges exist requiring changes to be driven through the enterprise which must be well-planned ranging from compliance considerations, through IT skills, through financial models, and on into operational models and even organizational structure.
+
+The members of the Open Data Center Alliance (ODCA) including both consumer and provider organisations, have shared their real world experiences, and based on these, produced a number of papers to document these experiences and resulting recommendations.  This paper represents a viewpoint on some of the important planning that Business Executives, IT Executives, IT Operations Management, and Consultants should take care to consider and plan for, when bringing Cloud Technology into the Existing Enterprise’s IT landscape.  The result of this combination of Existing Enterprise Systems and Cloud Services is termed “Hybrid IT”.
+
+By Hybrid IT, reference is made to the use of traditional internal IT systems and cloud environments with the participation of external partners and systems and services simultaneously, so as to enable the Enterprize overall.  Hybrid IT considers the multiple involved layers of people, process and technology across the enterprize IT ecosystem in context of the differing operating models that each IT Service type and that the internal and external delivery models drive.
+Since Enterprises need to ensure ongoing innovation and maximize opportunities in order to compete and survive, they have to begin to consider how new technologies can improve their position in the market.
+In cases where an enterprize will use two or three cloud service platforms in combination (Traditional IT, Private Cloud, Public Cloud, Hybrid Cloud) , including various service bundling such as  SaaS, PaaS, IaaS, and Info-aaS, amongst others, it is very important  for them to plan how to govern and manage the services effectively and sustainably.
+Many of the challenges that the organization will encounter as they adopt Hybrid IT do not come from the new IT systems themselves, but rather the enterprize’s structure, processes, and operations models.
